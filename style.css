@@ -1,0 +1,17 @@
+body {
+    background-color: #000000;
+}
+
+h2 {
+    text-align: center;
+    position: relative;
+    top: 200px;
+    font-family: monospace;
+    font-size: 60px;
+    cursor: pointer;
+    color: #ff0000;
+}
+
+h2:hover {
+    color: gold;
+}
